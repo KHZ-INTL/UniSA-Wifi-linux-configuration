@@ -2,6 +2,7 @@ name = UniSA Wifi
 author = Hossein Anvari khz.intl@gmail.com
 version = 1
 require identity *Identity password *Password
+protected password *Password
 -----
 ctrl_interface=/var/run/wpa_supplicant
 network={
