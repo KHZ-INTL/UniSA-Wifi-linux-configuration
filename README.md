@@ -6,7 +6,7 @@ UniSA Wifi configuration for linux: WICD and WPA_SUPPLICANT
 
 1. Copy `unisa-wifi` file to `/etc/wicd/encryption/templates/`
 
-2. add `unisa-wifi` to top of `/etc/wicd/encryption/templates/active` file
+2. add `unisa-wifi` to the top of `/etc/wicd/encryption/templates/active` file
 
 3. From WICD-GTK application locate Unisa Wifi access point and click on properties, next to the connect button. Click on Use encrption and select `UniSA Wifi` from the available encryption options.
 
